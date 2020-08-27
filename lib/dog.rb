@@ -18,7 +18,8 @@ class Dog
   
    def self.print_all
        @@all.each do |dog_names|
-         puts 
+         dog_name.each do |namez|
+           puts namez 
    end 
  end
  
