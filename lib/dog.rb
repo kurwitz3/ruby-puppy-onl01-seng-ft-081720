@@ -20,6 +20,7 @@ class Dog
        @@all.each do |dog_names|
          dog_name.each do |namez|
            puts namez 
+     end 
    end 
  end
  
